@@ -2,7 +2,6 @@ package;
 
 #if (android && MODS_ALLOWED)
 import android.Permissions;
-import android.PermissionsList;
 import android.os.Build;
 import android.os.Environment;
 #end
